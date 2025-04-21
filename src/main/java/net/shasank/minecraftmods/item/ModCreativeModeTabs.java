@@ -26,10 +26,13 @@ public static final RegistryObject<CreativeModeTab> SHASANK_MOD = CREATIVE_MODE_
                     output.accept(ModBlocks.Krypton_Block.get());
                     output.accept(ModItems.ME.get());
                     output.accept(ModItems.YOMARI.get());
+                    output.accept(ModBlocks.LAKHE_BLOCK.get());
+                    output.accept(ModItems.NEWARI_FOLK_MUSIC_DISC.get());
                 }).build());
 
 
     public static void register(IEventBus eventBus) {
+
         CREATIVE_MODE_TABS.register(eventBus);
     }
 

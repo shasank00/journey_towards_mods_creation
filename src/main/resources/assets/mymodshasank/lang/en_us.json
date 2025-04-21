@@ -1,11 +1,19 @@
 {
   "item.mymodshasank.krypton": "KRYPTON",
   "item.mymodshasank.raw_krypton": "Raw Krypton",
-  "item.mymodeshasank.me": "ME",
+  "item.mymodshasank.me": "ME",
   "item.mymodshasank.yomari": "Yomari",
 
-  "block.mymodshasank.krypton_block": "Block of Krypton",
+  "item.minecraft.potion.slimey_potion": "Slimey Potion",
 
-  "creativetab.mymodshasank.shasank_mod": "Shasank Mod"
+  "effect.mymodshasank.slimey": "Slimey",
+
+  "block.mymodshasank.krypton_block": "Block of Krypton",
+  "block.mymodshasank.lakhe_block": "Block of Lakhe",
+
+  "creativetab.mymodshasank.shasank_mod": "Shasank Mod",
+
+  "item.mymodshasank.newari_folk_music_disc": "Newari Folk Music Disc",
+  "item.mymodshasank.newari_folk_music_disc.desc": "Shasank - Newari Folk (CC0)"
 
 }

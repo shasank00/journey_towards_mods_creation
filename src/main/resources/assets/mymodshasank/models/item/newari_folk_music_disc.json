@@ -1,0 +1,6 @@
+{
+  "parent":"minecraft:item/generated",
+  "textures": {
+    "layer0": "mymodshasank:item/newari_folk_music_disc"
+  }
+}

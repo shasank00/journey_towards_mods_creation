@@ -11,5 +11,4 @@ public static final FoodProperties YOMARI = new FoodProperties.Builder().nutriti
         .effect(new MobEffectInstance(MobEffects.INVISIBILITY, 400 ),0.20f).build();
 
 
-
 }
